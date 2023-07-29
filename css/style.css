@@ -1,0 +1,14 @@
+.bg-box {
+  width: 1000px;
+  height: 700px;
+  outline: 2px solid black;
+  background-color: green;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("https://img2.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg"),
+    url("https://www.freeiconspng.com/img/44873"),
+    url("https://www.freeiconspng.com/img/34914");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 250px 400px 50px;
+}
